@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mobile-login-register-project/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/mobile-login-register-project/static/js/main.394c00e8.chunk.js",
-    "main.js.map": "/mobile-login-register-project/static/js/main.394c00e8.chunk.js.map",
+    "main.js": "/mobile-login-register-project/static/js/main.99855a34.chunk.js",
+    "main.js.map": "/mobile-login-register-project/static/js/main.99855a34.chunk.js.map",
     "runtime-main.js": "/mobile-login-register-project/static/js/runtime-main.af1b7203.js",
     "runtime-main.js.map": "/mobile-login-register-project/static/js/runtime-main.af1b7203.js.map",
     "static/js/2.5defb8b9.chunk.js": "/mobile-login-register-project/static/js/2.5defb8b9.chunk.js",
@@ -11,12 +11,13 @@
     "static/js/3.cec58d49.chunk.js.map": "/mobile-login-register-project/static/js/3.cec58d49.chunk.js.map",
     "index.html": "/mobile-login-register-project/index.html",
     "static/css/main.ea1455b2.chunk.css.map": "/mobile-login-register-project/static/css/main.ea1455b2.chunk.css.map",
-    "static/js/2.5defb8b9.chunk.js.LICENSE.txt": "/mobile-login-register-project/static/js/2.5defb8b9.chunk.js.LICENSE.txt"
+    "static/js/2.5defb8b9.chunk.js.LICENSE.txt": "/mobile-login-register-project/static/js/2.5defb8b9.chunk.js.LICENSE.txt",
+    "static/media/ashtarakkat.b7cae68e.jpg": "/mobile-login-register-project/static/media/ashtarakkat.b7cae68e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.af1b7203.js",
     "static/js/2.5defb8b9.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.394c00e8.chunk.js"
+    "static/js/main.99855a34.chunk.js"
   ]
 }
