@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/mobile-login-register-project/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/mobile-login-register-project/static/js/main.99855a34.chunk.js",
-    "main.js.map": "/mobile-login-register-project/static/js/main.99855a34.chunk.js.map",
-    "runtime-main.js": "/mobile-login-register-project/static/js/runtime-main.af1b7203.js",
-    "runtime-main.js.map": "/mobile-login-register-project/static/js/runtime-main.af1b7203.js.map",
-    "static/js/2.5defb8b9.chunk.js": "/mobile-login-register-project/static/js/2.5defb8b9.chunk.js",
-    "static/js/2.5defb8b9.chunk.js.map": "/mobile-login-register-project/static/js/2.5defb8b9.chunk.js.map",
-    "static/js/3.cec58d49.chunk.js": "/mobile-login-register-project/static/js/3.cec58d49.chunk.js",
-    "static/js/3.cec58d49.chunk.js.map": "/mobile-login-register-project/static/js/3.cec58d49.chunk.js.map",
+    "main.css": "/mobile-login-register-project/static/css/main.bc81cf8a.chunk.css",
+    "main.js": "/mobile-login-register-project/static/js/main.0171e14a.chunk.js",
+    "main.js.map": "/mobile-login-register-project/static/js/main.0171e14a.chunk.js.map",
+    "runtime-main.js": "/mobile-login-register-project/static/js/runtime-main.31919e0e.js",
+    "runtime-main.js.map": "/mobile-login-register-project/static/js/runtime-main.31919e0e.js.map",
+    "static/js/2.23538ba8.chunk.js": "/mobile-login-register-project/static/js/2.23538ba8.chunk.js",
+    "static/js/2.23538ba8.chunk.js.map": "/mobile-login-register-project/static/js/2.23538ba8.chunk.js.map",
+    "static/js/3.2df66a0e.chunk.js": "/mobile-login-register-project/static/js/3.2df66a0e.chunk.js",
+    "static/js/3.2df66a0e.chunk.js.map": "/mobile-login-register-project/static/js/3.2df66a0e.chunk.js.map",
     "index.html": "/mobile-login-register-project/index.html",
-    "static/css/main.ea1455b2.chunk.css.map": "/mobile-login-register-project/static/css/main.ea1455b2.chunk.css.map",
-    "static/js/2.5defb8b9.chunk.js.LICENSE.txt": "/mobile-login-register-project/static/js/2.5defb8b9.chunk.js.LICENSE.txt",
-    "static/media/ashtarakkat.b7cae68e.jpg": "/mobile-login-register-project/static/media/ashtarakkat.b7cae68e.jpg"
+    "static/css/main.bc81cf8a.chunk.css.map": "/mobile-login-register-project/static/css/main.bc81cf8a.chunk.css.map",
+    "static/js/2.23538ba8.chunk.js.LICENSE.txt": "/mobile-login-register-project/static/js/2.23538ba8.chunk.js.LICENSE.txt",
+    "static/media/Rectangle 1.b47d0b06.png": "/mobile-login-register-project/static/media/Rectangle 1.b47d0b06.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.af1b7203.js",
-    "static/js/2.5defb8b9.chunk.js",
-    "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.99855a34.chunk.js"
+    "static/js/runtime-main.31919e0e.js",
+    "static/js/2.23538ba8.chunk.js",
+    "static/css/main.bc81cf8a.chunk.css",
+    "static/js/main.0171e14a.chunk.js"
   ]
 }
